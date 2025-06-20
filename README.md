@@ -37,9 +37,6 @@ This project uses a historical weather dataset from various locations in Austral
 - Precision
 - Recall
 - F1 Score
-- ROC AUC (optional)
-- Cohen’s Kappa (optional)
-- Time taken for model execution
 
 ## 🧼 Data Preprocessing Steps
 
